@@ -1,5 +1,5 @@
 # N-Axis-Arm
-Building an n-axis robotic arm from scratch
+Building an n-axis robotic arm from scratch \n
 Useful Links
 
 https://emanual.robotis.com/docs/en/dxl/p/pm42-010-s260-r/
